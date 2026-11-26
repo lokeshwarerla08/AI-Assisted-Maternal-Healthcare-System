@@ -1,0 +1,16 @@
+{
+  "test_accuracy": 74.81,
+  "test_loss": 0.7595,
+  "epochs_trained": 16,
+  "classes": [
+    "benign",
+    "malignant",
+    "normal"
+  ],
+  "model_type": "CNN (Convolutional Neural Network)",
+  "class_weights": {
+    "benign": 1.0,
+    "malignant": 1.0,
+    "normal": 1.0
+  }
+}
